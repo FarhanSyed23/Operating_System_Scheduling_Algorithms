@@ -1,1 +1,8 @@
+Enter the no. of process: 5
 
+Enter the burst time of the process:
+24
+3
+3
+7
+11
