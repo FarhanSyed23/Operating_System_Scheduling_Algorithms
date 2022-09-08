@@ -1,0 +1,6 @@
+Enter the no. of process: 4
+
+Enter the burst time of P1: 6
+Enter the burst time of P2: 8
+Enter the burst time of P3: 7
+Enter the burst time of P4: 3

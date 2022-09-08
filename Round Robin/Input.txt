@@ -1,0 +1,8 @@
+Enter the Number of Process: 5
+
+Enter Burst Time:
+24
+3
+3
+
+Enter Time Quantum: 4
